@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "Computer vision & Deep learning Blog",
-    "description": "test"
+    "description": "test",
+    "cover": "/images/Capture d’écran 2013-08-23 à 16.07.06.png"
   },
   "socialnetwork": {
     "linkedin": "https://il.linkedin.com/in/doron-portnoy-a6903263",
