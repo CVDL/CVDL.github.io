@@ -7,10 +7,10 @@
   "site": {
     "title": "Computer vision & Deep learning Blog",
     "description": "test",
-    "cover": "/images/Capture d’écran 2013-08-23 à 16.07.06.png"
+    "cover": "/images/DeepLearing.png"
   },
   "socialnetwork": {
-    "linkedin": "https://il.linkedin.com/in/doron-portnoy-a6903263",
+    "linkedin": "",
     "github": "https://github.com/CVDL"
   },
   "theme": {
