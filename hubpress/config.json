@@ -4,7 +4,11 @@
     "repositoryName": "cvdl.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Computer vision & Deep learning Blog"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
