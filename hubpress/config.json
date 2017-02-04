@@ -5,13 +5,14 @@
     "branch": "master"
   },
   "site": {
-    "title": "Computer vision & Deep learning Blog"
+    "title": "Computer vision & Deep learning Blog",
+    "description": "test"
   },
   "socialnetwork": {
     "linkedin": "https://il.linkedin.com/in/doron-portnoy-a6903263",
     "github": "https://github.com/CVDL"
   },
   "theme": {
-    "name": "ghostium"
+    "name": "saga"
   }
 }
