@@ -7,7 +7,9 @@
   "site": {
     "title": "Computer vision & Deep learning Blog"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "linkedin": "doron portnoy"
+  },
   "theme": {
     "name": "casper"
   }
